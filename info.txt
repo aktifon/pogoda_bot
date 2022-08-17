@@ -1,0 +1,41 @@
+Имемя: Rick Sanchez
+Статус: Alive
+Оригинал: {'name': 'Citadel of Ricks', 'url': 'https://rickandmortyapi.com/api/location/3'}Имемя: Morty Smith
+Статус: Alive
+Оригинал: {'name': 'Citadel of Ricks', 'url': 'https://rickandmortyapi.com/api/location/3'}Имемя: Summer Smith
+Статус: Alive
+Оригинал: {'name': 'Earth (Replacement Dimension)', 'url': 'https://rickandmortyapi.com/api/location/20'}Имемя: Beth Smith
+Статус: Alive
+Оригинал: {'name': 'Earth (Replacement Dimension)', 'url': 'https://rickandmortyapi.com/api/location/20'}Имемя: Jerry Smith
+Статус: Alive
+Оригинал: {'name': 'Earth (Replacement Dimension)', 'url': 'https://rickandmortyapi.com/api/location/20'}Имемя: Abadango Cluster Princess
+Статус: Alive
+Оригинал: {'name': 'Abadango', 'url': 'https://rickandmortyapi.com/api/location/2'}Имемя: Abradolf Lincler
+Статус: unknown
+Оригинал: {'name': 'Testicle Monster Dimension', 'url': 'https://rickandmortyapi.com/api/location/21'}Имемя: Adjudicator Rick
+Статус: Dead
+Оригинал: {'name': 'Citadel of Ricks', 'url': 'https://rickandmortyapi.com/api/location/3'}Имемя: Agency Director
+Статус: Dead
+Оригинал: {'name': 'Earth (Replacement Dimension)', 'url': 'https://rickandmortyapi.com/api/location/20'}Имемя: Alan Rails
+Статус: Dead
+Оригинал: {'name': "Worldender's lair", 'url': 'https://rickandmortyapi.com/api/location/4'}Имемя: Albert Einstein
+Статус: Dead
+Оригинал: {'name': 'Earth (Replacement Dimension)', 'url': 'https://rickandmortyapi.com/api/location/20'}Имемя: Alexander
+Статус: Dead
+Оригинал: {'name': 'Anatomy Park', 'url': 'https://rickandmortyapi.com/api/location/5'}Имемя: Alien Googah
+Статус: unknown
+Оригинал: {'name': 'Earth (Replacement Dimension)', 'url': 'https://rickandmortyapi.com/api/location/20'}Имемя: Alien Morty
+Статус: unknown
+Оригинал: {'name': 'Citadel of Ricks', 'url': 'https://rickandmortyapi.com/api/location/3'}Имемя: Alien Rick
+Статус: unknown
+Оригинал: {'name': 'Citadel of Ricks', 'url': 'https://rickandmortyapi.com/api/location/3'}Имемя: Amish Cyborg
+Статус: Dead
+Оригинал: {'name': 'Earth (Replacement Dimension)', 'url': 'https://rickandmortyapi.com/api/location/20'}Имемя: Annie
+Статус: Alive
+Оригинал: {'name': 'Anatomy Park', 'url': 'https://rickandmortyapi.com/api/location/5'}Имемя: Antenna Morty
+Статус: Alive
+Оригинал: {'name': 'Citadel of Ricks', 'url': 'https://rickandmortyapi.com/api/location/3'}Имемя: Antenna Rick
+Статус: unknown
+Оригинал: {'name': 'unknown', 'url': ''}Имемя: Ants in my Eyes Johnson
+Статус: unknown
+Оригинал: {'name': 'Interdimensional Cable', 'url': 'https://rickandmortyapi.com/api/location/6'}
